@@ -7,9 +7,13 @@ This is a device that visualizes the hand drip. Using Bosch's XDK, you get the m
 ## Image
 ![Image](https://github.com/NaohiroIIDA/CoffeeDojo/blob/master/IMG_0483.jpg?raw=true)
 
-## screen
-![Image](https://github.com/NaohiroIIDA/CoffeeDojo/blob/master/screen.png?raw=true)
+![Image](https://github.com/NaohiroIIDA/CoffeeDojo/blob/master/IMG_0484.jpg?raw=true)
 
+![Image](https://github.com/NaohiroIIDA/CoffeeDojo/blob/master/IMG_0486.jpg?raw=true)
+
+
+
+## screen
 ![Image](https://github.com/NaohiroIIDA/CoffeeDojo/blob/master/screen.png?raw=true)
 
 
