@@ -10,5 +10,9 @@ This is a device that visualizes the hand drip. Using Bosch's XDK, you get the m
 ## screen
 ![Image](https://github.com/NaohiroIIDA/CoffeeDojo/blob/master/screen.png?raw=true)
 
+![Image](https://github.com/NaohiroIIDA/CoffeeDojo/blob/master/screen.png?raw=true)
+
+
+
 ##これは何？
 これはハンドドリップを可視化するデバイスです。ボッシュのXDKを使用して、温度、湿度、気圧とともにポットの動きを取得し、PC（またはスマートフォン）に送信します。PCはこのデータと重量センサを組み合わせ、理想のハンドドリップへのアドバイスを行います。
